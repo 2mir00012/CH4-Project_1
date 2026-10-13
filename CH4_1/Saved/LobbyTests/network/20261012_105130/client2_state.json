@@ -1,0 +1,70 @@
+{
+	"name": "Player2",
+	"count": 0,
+	"round": 5,
+	"turn_id": 12,
+	"turn_active": true,
+	"turn_player": "Player2",
+	"deadline": 92.531454596668482,
+	"remaining": 19.52581749210367,
+	"server_time": 73.005637104564812,
+	"widget_turn": "Player2 차례 | 남은 시간 20초 | 숫자를 입력하세요",
+	"ending": false,
+	"waiting_ready": false,
+	"ready_revision": 5,
+	"ready": true,
+	"wins": 1,
+	"ready_enabled": false,
+	"ready_caption": "경기 진행 중",
+	"notice": "ROUND 5 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+	"widget_notice": "ROUND 5 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+	"binding_notice": "ROUND 5 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+	"error": "",
+	"command": "50\ndisconnect\n",
+	"guess_enabled": true,
+	"widget_counts": "Player2 (나)    1승    시도 0 / 3    현재 차례\nPlayer1    2승    시도 1 / 3    대기 중",
+	"counts":
+	{
+		"Player2": 0,
+		"Player1": 1
+	},
+	"win_counts":
+	{
+		"Player2": 1,
+		"Player1": 2
+	},
+	"ready_states":
+	{
+		"Player2": true,
+		"Player1": true
+	},
+	"messages": [
+		"ROUND 1 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+		"[안내] 현재 자신의 차례가 아니거나 이미 지난 턴입니다.",
+		"Player2 [0/3] [채팅]: 반가워요! 준비하고 시작해 봅시다.",
+		"Player1 [1/3]: 468 → 3S0B",
+		"Player1 승리! Winner! 3초 후 준비 화면으로 돌아갑니다.",
+		"ROUND 2 | 모두 준비하면 게임을 시작합니다.",
+		"ROUND 2 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+		"Player1 [1/3]: 123 → 1S0B",
+		"Player2 [1/3]: 123 → 1S0B",
+		"Player1 [2/3]: 123 → 1S0B",
+		"Player2 [2/3]: 123 → 1S0B",
+		"Player1 [3/3]: 123 → 1S0B",
+		"Player2 [3/3]: 123 → 1S0B",
+		"무승부! Draw... 3초 후 준비 화면으로 돌아갑니다.",
+		"ROUND 3 | 모두 준비하면 게임을 시작합니다.",
+		"ROUND 3 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+		"Player1 [1/3]: 123 → 0S1B",
+		"Player2 [1/3]: 481 → 3S0B",
+		"Player2 승리! Winner! 3초 후 준비 화면으로 돌아갑니다.",
+		"[안내] 준비 대기 중이거나 라운드가 종료·변경되었습니다. 게임 시작 후 입력하세요.",
+		"ROUND 4 | 모두 준비하면 게임을 시작합니다.",
+		"ROUND 4 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+		"Player1 [1/3]: 781 → 3S0B",
+		"Player1 승리! Winner! 3초 후 준비 화면으로 돌아갑니다.",
+		"ROUND 5 | 모두 준비하면 게임을 시작합니다.",
+		"ROUND 5 | 1~9의 서로 다른 숫자 3개를 맞혀보세요!",
+		"Player1 [1/3]: 시간 초과! 기회 1회를 사용했습니다."
+	]
+}

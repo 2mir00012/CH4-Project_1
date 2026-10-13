@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch4_1\\uht\\mnbgamestatebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\ch4_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch4_1\\definitions.ch4_1.h",
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\source\\ch4_1\\game\\mnbgamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch4_1\\uht\\mnbgamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

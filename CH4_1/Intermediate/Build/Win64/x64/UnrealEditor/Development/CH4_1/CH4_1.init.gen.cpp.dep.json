@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch4_1\\uht\\ch4_1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\ch4_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch4_1\\definitions.ch4_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

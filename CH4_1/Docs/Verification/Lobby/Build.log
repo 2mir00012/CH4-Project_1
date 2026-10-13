@@ -1,0 +1,23 @@
+Using bundled DotNet SDK version: 8.0.300 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CH4_1Editor Win64 Development -Project=C:\MIR\CH4-Project\CH4-1\CH4_1\CH4_1.uproject -WaitMutex -FromMsBuild -NoUBA
+Log file: C:\Users\2mir0\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (C:\MIR\CH4-Project\CH4-1).
+Building CH4_1Editor...
+Using Visual Studio 2022 14.38.33133 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[Adaptive Build] Excluded from CH4_1 unity file: CH4_1.init.gen.cpp, MNBChatInput.gen.cpp, MNBGameStateBase.gen.cpp, MNBPlayerController.gen.cpp, MNBPlayerState.gen.cpp
+[Adaptive Build] Excluded from CH4_1 unity file: MNBGameModeBase.cpp, MNBGameStateBase.cpp, MNBPlayerController.cpp, MNBPlayerState.cpp, MNBNetworkProbe.cpp, MNBChatInput.cpp
+[Adaptive Build] Excluded from CH4_1EditorTools unity file: MNBAssetSetup.cpp, MNBScoreboardLayout.cpp
+Determining max actions to execute in parallel (24 physical cores, 32 logical cores)
+  Executing up to 24 processes, one per physical core
+  Requested 1.5 GB memory per action, 31.73 GB available: limiting max parallel actions to 21
+Using Parallel executor to run 4 action(s)
+------ Building 4 action(s) started ------
+[1/4] Compile [x64] MNBNetworkProbe.cpp
+[2/4] Link [x64] UnrealEditor-CH4_1.lib
+   C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1/UnrealEditor-CH4_1.lib ���̺귯�� �� C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1/UnrealEditor-CH4_1.exp ��ü�� �����ϰ� �ֽ��ϴ�.
+[3/4] Link [x64] UnrealEditor-CH4_1.dll
+[4/4] WriteMetadata CH4_1Editor.target
+Total time in Parallel executor: 2.83 seconds
+
+Result: Succeeded
+Total execution time: 3.25 seconds

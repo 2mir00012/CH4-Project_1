@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780"><rect width="100%" height="100%" fill="white"/>
+<text x="800" y="42" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" font-weight="700">유효한 입력 또는 시간 초과 → 턴을 한 번만 종료</text>
+<rect x="70" y="140" width="620" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="380.0" y="179.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">현재 차례의 유효한 숫자</text>
+<text x="380.0" y="221.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">bSubmittedThisTurn = true</text>
+<rect x="910" y="140" width="620" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="1220.0" y="179.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">시간 초과 / 유효한 입력 없음</text>
+<text x="1220.0" y="221.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">기회 1회 소진</text>
+<rect x="450" y="400" width="700" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="800.0" y="439.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">CompleteTurn</text>
+<text x="800.0" y="481.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">타이머 중지 → 승리·무승부 검사</text>
+<path d="M380,280 L650,380" fill="none" stroke="#202124" stroke-width="3"/><polygon points="650,380 633.0174354315066,380.7697406556433 637.6159551754704,368.35373734694076" fill="#202124"/>
+<path d="M1220,280 L950,380" fill="none" stroke="#202124" stroke-width="3"/><polygon points="950,380 962.3840448245296,368.35373734694076 966.9825645684934,380.7697406556433" fill="#202124"/>
+<rect x="70" y="635" width="620" height="95" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="380.0" y="682.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">게임 종료 → 결과 공지 → 3초 후 리셋</text>
+<rect x="910" y="635" width="620" height="95" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="1220.0" y="682.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">계속 진행 → 기회가 남은 다음 플레이어</text>
+<path d="M650,540 L380,615" fill="none" stroke="#202124" stroke-width="3"/><polygon points="380,615 393.3149666749174,604.4306262037036 396.85863128691597,617.1878188068983" fill="#202124"/>
+<path d="M950,540 L1220,615" fill="none" stroke="#202124" stroke-width="3"/><polygon points="1220,615 1203.141368713084,617.1878188068983 1206.6850333250825,604.4306262037036" fill="#202124"/>
+</svg>

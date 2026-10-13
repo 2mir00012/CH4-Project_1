@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CH4_1.gen.cpp.obj": [
+			"CH4_1.init.gen.cpp.obj",
+			"MNBChatInput.gen.cpp.obj",
+			"MNBGameModeBase.gen.cpp.obj",
+			"MNBGameStateBase.gen.cpp.obj",
+			"MNBNumberBaseballLibrary.gen.cpp.obj",
+			"MNBPlayerController.gen.cpp.obj",
+			"MNBPlayerState.gen.cpp.obj"
+		]
+	}
+}

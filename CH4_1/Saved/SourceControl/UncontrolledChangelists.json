@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/MIR/CH4-Project/CH4-1/CH4_1/Content/MNB/UI/WBP_MNBNotificationText.uasset",
+				"C:/MIR/CH4-Project/CH4-1/CH4_1/Content/MNB/UI/Textures/T_MNB_Scoreboard.uasset"
+			]
+		}
+	]
+}

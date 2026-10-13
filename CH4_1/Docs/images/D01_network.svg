@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620"><rect width="100%" height="100%" fill="white"/>
+<text x="800" y="42" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" font-weight="700">숫자 입력 → 서버 판정 → 모든 클라이언트 표시</text>
+<rect x="60" y="150" width="400" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="260.0" y="189.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">UMG / PlayerController</text>
+<text x="260.0" y="231.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">입력 원문 + 라운드 번호</text>
+<rect x="640" y="150" width="430" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="855.0" y="189.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">GameMode / 서버</text>
+<text x="855.0" y="231.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">형식 검사 · 기회 확인 · S/B 판정</text>
+<rect x="1190" y="150" width="350" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="1365.0" y="189.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">PlayerState</text>
+<text x="1365.0" y="231.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">유효할 때만 횟수 +1</text>
+<path d="M480,210 L620,210" fill="none" stroke="#202124" stroke-width="3"/><polygon points="620,210 604.3419631019509,216.62011181924706 604.3419631019509,203.37988818075294" fill="#202124"/>
+<text x="550.0" y="182.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" font-weight="400">Server RPC</text>
+<path d="M1090,210 L1170,210" fill="none" stroke="#202124" stroke-width="3"/><polygon points="1170,210 1154.341963101951,216.62011181924706 1154.341963101951,203.37988818075294" fill="#202124"/>
+<rect x="640" y="420" width="900" height="120" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="1090.0" y="459.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">모든 플레이어 화면</text>
+<text x="1090.0" y="501.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">결과: 각 Client RPC / 횟수: 속성 복제 / 공지: 바인딩</text>
+<path d="M855,290 L855,400" fill="none" stroke="#202124" stroke-width="3"/><polygon points="855,400 848.3798881807529,384.34196310195097 861.6201118192471,384.34196310195097" fill="#202124"/>
+<text x="270" y="456" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" font-weight="400">잘못된 입력 → 본인에게 안내</text>
+<text x="270" y="503" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central" font-weight="400">일반 채팅 → 기회 유지</text>
+</svg>

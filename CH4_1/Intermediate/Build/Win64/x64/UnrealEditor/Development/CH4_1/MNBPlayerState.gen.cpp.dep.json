@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch4_1\\uht\\mnbplayerstate.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\ch4_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch4_1\\definitions.ch4_1.h",
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\source\\ch4_1\\player\\mnbplayerstate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\mir\\ch4-project\\ch4-1\\ch4_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch4_1\\uht\\mnbplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

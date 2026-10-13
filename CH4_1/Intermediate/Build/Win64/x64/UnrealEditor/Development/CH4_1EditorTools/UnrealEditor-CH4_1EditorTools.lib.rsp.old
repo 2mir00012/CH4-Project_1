@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CH4_1EditorTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/CH4_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/CH4_1EditorTools.cpp.obj"
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/PerModuleInline.gen.cpp.obj"
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/MNBAssetSetup.cpp.obj"
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/MNBScoreboardLayout.cpp.obj"
+"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/Default.rc2.res"
+/OUT:"C:/MIR/CH4-Project/CH4-1/CH4_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CH4_1EditorTools/UnrealEditor-CH4_1EditorTools.lib"

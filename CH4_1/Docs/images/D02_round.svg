@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="740" viewBox="0 0 1600 740"><rect width="100%" height="100%" fill="white"/>
+<text x="800" y="42" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="34" text-anchor="middle" dominant-baseline="central" font-weight="700">승리·무승부 → 결과 표시 → 한 번만 초기화</text>
+<rect x="510" y="105" width="580" height="100" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="800.0" y="155.0" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">유효한 입력 + 남은 기회 → 횟수 증가</text>
+<rect x="100" y="340" width="620" height="115" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="410.0" y="376.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">3 Strike</text>
+<text x="410.0" y="418.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">해당 플레이어 승리</text>
+<rect x="890" y="340" width="610" height="115" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="1195.0" y="376.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">3 Strike 아님 + 모두 3회 소진</text>
+<text x="1195.0" y="418.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">무승부</text>
+<path d="M675,225 L410,320" fill="none" stroke="#202124" stroke-width="3"/><polygon points="410,320 422.50549561080464,308.48424646286026 426.973558636924,320.94779069361437" fill="#202124"/>
+<path d="M930,225 L1190,320" fill="none" stroke="#202124" stroke-width="3"/><polygon points="1190,320 1173.02097944231,320.8443109033641 1177.5649308901727,308.4082332565816" fill="#202124"/>
+<rect x="395" y="590" width="810" height="105" rx="13" fill="white" stroke="#202124" stroke-width="3"/>
+<text x="800.0" y="621.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">결과 공지 3초 / 숫자 입력 차단</text>
+<text x="800.0" y="663.5" fill="#202124" font-family="Malgun Gothic, sans-serif" font-size="27" text-anchor="middle" dominant-baseline="central" font-weight="400">정답 재생성 · 횟수 0 · 다음 라운드</text>
+<path d="M410,475 L590,570" fill="none" stroke="#202124" stroke-width="3"/><polygon points="590,570 573.062276653778,568.5462022675606 579.2422651619223,556.8367503573924" fill="#202124"/>
+<path d="M1190,475 L1010,570" fill="none" stroke="#202124" stroke-width="3"/><polygon points="1010,570 1020.7577348380777,556.8367503573924 1026.937723346222,568.5462022675606" fill="#202124"/>
+</svg>

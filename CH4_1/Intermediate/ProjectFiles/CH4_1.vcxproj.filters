@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CH4_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH4_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CH4_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CH4_1">
+      <UniqueIdentifier>{72E4BA87-213A-3CB9-8F8B-7E15A1202D80}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH4_1\CH4_1.Build.cs">
+      <Filter>Source\CH4_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CH4_1\CH4_1.cpp">
+      <Filter>Source\CH4_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\CH4_1.h">
+      <Filter>Source\CH4_1</Filter>
+    </ClInclude>
+    <Filter Include="Source\CH4_1\Game">
+      <UniqueIdentifier>{4BA11024-24EB-3E96-AE63-DEFEE4E87156}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH4_1\Game\MNBGameModeBase.cpp">
+      <Filter>Source\CH4_1\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\Game\MNBGameModeBase.h">
+      <Filter>Source\CH4_1\Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CH4_1\Game\MNBGameStateBase.cpp">
+      <Filter>Source\CH4_1\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\Game\MNBGameStateBase.h">
+      <Filter>Source\CH4_1\Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\CH4_1\Library">
+      <UniqueIdentifier>{B96864C0-4A7B-3714-A120-09A510CDAC56}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH4_1\Library\MNBNumberBaseballLibrary.cpp">
+      <Filter>Source\CH4_1\Library</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\Library\MNBNumberBaseballLibrary.h">
+      <Filter>Source\CH4_1\Library</Filter>
+    </ClInclude>
+    <Filter Include="Source\CH4_1\Player">
+      <UniqueIdentifier>{C446FE70-C59E-36E6-A333-5D699EDFFE40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH4_1\Player\MNBPlayerController.cpp">
+      <Filter>Source\CH4_1\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\Player\MNBPlayerController.h">
+      <Filter>Source\CH4_1\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CH4_1\Player\MNBPlayerState.cpp">
+      <Filter>Source\CH4_1\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\Player\MNBPlayerState.h">
+      <Filter>Source\CH4_1\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\CH4_1\Tests">
+      <UniqueIdentifier>{0901BA33-05B5-3D5B-960C-7844C6ECD968}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH4_1\Tests\MNBNetworkProbe.cpp">
+      <Filter>Source\CH4_1\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH4_1\Tests\MNBRuleTests.cpp">
+      <Filter>Source\CH4_1\Tests</Filter>
+    </ClCompile>
+    <Filter Include="Source\CH4_1\UI">
+      <UniqueIdentifier>{1F5A6D11-24D9-309D-B14B-DA24E66F5129}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH4_1\UI\MNBChatInput.cpp">
+      <Filter>Source\CH4_1\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CH4_1\UI\MNBChatInput.h">
+      <Filter>Source\CH4_1\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
